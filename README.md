@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nathan 👋
+
+I'm interested in automating human decision making through machine learning. I see data engineering as the current bottleneck in that process, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
+
+🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
+
+🌱 I’m currently learning [Rust](https://www.rust-lang.org)
+
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/jnathanfarmer/)
 
 <!--
 **NathanFarmer/NathanFarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
