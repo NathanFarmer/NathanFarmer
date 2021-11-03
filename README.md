@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋
 
-I'm interested in automating human decision making through machine learning. I see data engineering as the current bottleneck in that process, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
+I'm interested in automating human decision making through machine learning. I see data engineering as the prevailing bottleneck in that process, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
 
 🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
 
