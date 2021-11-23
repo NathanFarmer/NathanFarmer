@@ -4,7 +4,7 @@ I'm interested in automating human decision making through machine learning. I s
 
 🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
 
-🌱 I’m currently learning [Rust](https://www.rust-lang.org)
+🌱 I’m currently learning C++
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/jnathanfarmer/)
 
