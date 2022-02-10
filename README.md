@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋
 
-I'm interested in automating human decision making through machine learning. I see MLOps as the prevailing bottleneck in that process, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
+I'm interested in automating human decision making through machine learning. I see MLOps as the prevailing bottleneck to that end, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
 
 🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
 
