@@ -2,9 +2,9 @@
 
 I'm interested in automating human decision making through machine learning. I see MLOps as the prevailing bottleneck to that end, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
 
-🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanFarmer&count_private=true&show_icons=true&theme=transparent)
 
-🌱 I’m currently learning C++
+🔭 I’m currently working on [Great Expectations](https://github.com/great-expectations/great_expectations)
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/jnathanfarmer/)
 
