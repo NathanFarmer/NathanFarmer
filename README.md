@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋
 
-I'm interested in automating human decision making through machine learning. I see MLOps as the prevailing bottleneck to that end, and therefore spend most of my time thinking about ways to serve, monitor, and control model data.
+I specialize in building software products that empower users to leverage data and AI systems. I enjoy bridging the gap between complex data models and practical, impactful applications.
 
 🚀 I’m currently working on [GX Cloud](https://greatexpectations.io/cloud) at [Great Expectations](https://github.com/great-expectations/great_expectations)
 
